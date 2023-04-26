@@ -4,5 +4,6 @@
             <li><a href="quienes.jsp">¿Quienes somos?</a></li>
             <li><a href="servicios.jsp">Servicios</a></li>
             <li><a href="portafolio.jsp">Portafolio</a></li>
+            <li><a href="historia.jsp">Historia</a></li>
             <li><a href="contacto.jsp">Contactos</a></li>
         </ul>
